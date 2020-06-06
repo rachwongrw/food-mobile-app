@@ -21,7 +21,6 @@ export default () => {
     } catch (err) {
       setErrorMessage('Something went wrong')
     }
-    
   }
 
   useEffect(() => {
